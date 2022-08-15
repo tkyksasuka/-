@@ -71,7 +71,7 @@ p{
   margin: 0  10px 0 10px;
 }
 
-.background-color{
+footer{
   width: 100%;
   height: 50px;
   background-color:#AAAAAA;
@@ -92,10 +92,11 @@ main{
 }
 
 .contents{
-  width: 100%;
+  width: 90%;
   margin-bottom: 20px;
   background-color: #EEE;
   position: relative;
+  padding: 10px 10px 15px 10px;
 }
 
 .contents:last-child{
@@ -144,7 +145,7 @@ h3{
 p{
   margin: 0  10px 0 10px;
 }
-.background-color{
+footer{
   width: 100%;
   height: 50px;
   background-color:#AAAAAA;
